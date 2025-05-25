@@ -62,9 +62,9 @@ Doğru Pozitifler (TP): 4043 (Modelin hasta olarak doğru tahmin ettikleri hasta
 
 Değerlendirme Özeti: Model, yaklaşık %72'lik bir doğrulukla makul bir performans sergilemektedir. Özellikle yüksek kesinlik değeri, modelin yaptığı pozitif teşhislerin (kalp hastalığı var) güvenilir olduğunu gösterirken, duyarlılık değeri (gerçek hastaları bulma oranı) iyileştirme potansiyeli taşımaktadır. Tıbbi uygulamalarda yanlış negatiflerin maliyeti yüksek olduğundan, bu alanın gelecekteki geliştirmelerde ele alınması gerekmektedir.
 
-## 6. Sonuç ve Gelecek Geliştirmeler 
+## 6. Sonuç 
 Bu proje, kardiyovasküler hastalık riskini tahmin etme konusunda veri bilimi süreçlerinin uçtan uca uygulanmasına dair kapsamlı bir deneyim olmuştur. Elde edilen Lojistik Regresyon modeli, klinik uygulamalar için başlangıç seviyesinde bir öngörü aracı olarak potansiyel taşımaktadır.
 
-7. Kaggle Notebook ve GitHub Repo Linkleri
+## 7. Kaggle Notebook ve GitHub Repo Linkleri
 Kaggle Notebook: https://www.kaggle.com/code/irfanburakege/ml25-irfanburakege 
-GitHub Repository: 
+GitHub Repository: https://github.com/irfanburakege/ml25_HeartDiseaseData
